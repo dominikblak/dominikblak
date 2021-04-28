@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript & React.
 - 💞️ I’m looking to collaborate on projects with React.
 - 📫 How to reach me : :email: bldominikak@gmail.com :family: https://www.linkedin.com/in/dominik-blak-060416176/
-- 
 
 <!---
 dominikblak/dominikblak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
