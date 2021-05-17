@@ -1,4 +1,4 @@
- <h1 align="center"> Hi,👋 I’m Dominik Blak.</h1>
+ <h1 align="center"> Hi,👋 I’m Dominik Blak</h1>
  
 - 👀 I’m interested in IT, history, music.
 - 🌱 I’m currently learning JavaScript & React.
