@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Dominik Blak.
+ <h1 align="center"> Hi,👋 I’m Dominik Blak.</h1>
+ 
 - 👀 I’m interested in IT, history, music.
 - 🌱 I’m currently learning JavaScript & React.
 - 💞️ I’m looking to collaborate on projects with React.
 - 📫 How to reach me : :email: bldominikak@gmail.com :family: https://www.linkedin.com/in/dominik-blak-060416176/
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominikblak&show_icons=true&theme=tokyonight)
 
 
