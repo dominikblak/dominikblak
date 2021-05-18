@@ -1,5 +1,5 @@
  <h1 align="center"> Hi,👋 I’m Dominik Blak</h1>
- <h3 align="center">A passionate Frontend Developer from Kraków, Poland</h3>
+ <h2 align="center">A passionate Frontend Developer from Kraków, Poland</h2>
 
 - 👀 I’m interested in IT, history, music.
 - 🌱 I’m currently learning JavaScript & React.
@@ -7,7 +7,7 @@
 - 📫 How to reach me : :email: bldominikak@gmail.com :family: https://www.linkedin.com/in/dominik-blak-060416176/
 
 
-:wrench: Languages and Tools : :hammer: 
+ <h3 align="center">:wrench:Languages and Tools : :hammer:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/"><img src="https://github.com/dominikblak/dominikblak/blob/main/html.png"  alt="html" width="40" height="40" style="max-width:100%; "></a>
 <a href="https://www.w3schools.com/css/"><img src="https://github.com/dominikblak/dominikblak/blob/main/css.png" alt="css" width="40" height="40" style="max-width:100%;"></a>
