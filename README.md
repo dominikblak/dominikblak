@@ -8,6 +8,8 @@
 
 
 :wrench: Languages and Tools : :hammer: 
+
+<img src="https://github.com/dominikblak/dominikblak/blob/main/html.png" alt="css3" width="40" height="40" style="max-width:100%;">
 <img src="https://github.com/dominikblak/dominikblak/blob/main/css.png" alt="css3" width="40" height="40" style="max-width:100%;">
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikblak&layout=compact&theme=tokyonight)
