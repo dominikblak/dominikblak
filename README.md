@@ -6,7 +6,7 @@
 - 📫 How to reach me : :email: bldominikak@gmail.com :family: https://www.linkedin.com/in/dominik-blak-060416176/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominikblak&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikblak&layout=compact)](https://github.com/dominikblak/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikblak&layout=compact&theme=tokyonight)
 
 
 
