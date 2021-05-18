@@ -1,5 +1,6 @@
  <h1 align="center"> Hi,👋 I’m Dominik Blak</h1>
- 
+ <h3 align="center">A passionate Frontend Developer from Kraków, Poland</h3>
+
 - 👀 I’m interested in IT, history, music.
 - 🌱 I’m currently learning JavaScript & React.
 - 💞️ I’m looking to collaborate on projects with React.
