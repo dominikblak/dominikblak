@@ -9,7 +9,7 @@
 
 :wrench: Languages and Tools : :hammer: 
 <p align="center">
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/dominikblak/dominikblak/blob/main/html.png" alt="css3" width="40" height="40" style="max-width:100%; "></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/dominikblak/dominikblak/blob/main/html.png"  alt="css3" width="40" height="40" style="max-width:100%; "></a>
 <img src="https://github.com/dominikblak/dominikblak/blob/main/css.png" alt="css3" width="50" height="50" style="max-width:100%;">
  </p>
 
