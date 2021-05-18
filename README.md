@@ -18,7 +18,8 @@
  <a href=https://code.visualstudio.com/"><img src="https://github.com/dominikblak/dominikblak/blob/main/vsc.png"  alt="vsc" width="40" height="40" style="max-width:100%; "></a>
  </p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikblak&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikblak&layout=compact&theme=tokyonight)
+</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominikblak&show_icons=true&theme=tokyonight)
 
 
