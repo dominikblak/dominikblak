@@ -4,7 +4,7 @@
 - 👀 I’m interested in IT, history, music.
 - 🌱 I’m currently learning JavaScript & React.
 - 💞️ I’m looking to collaborate on projects with React.
-- 📫 How to reach me :</br> <a href="mailto:bldominikak@gmail.com" target="_blank"> 📧 E-mail</a>   </br> <a href="https://dominikblak.github.io/personal-homepage/" target="_blank"> 👨‍💻 Personal homepage</a> </br> <a href=https://www.linkedin.com/in/dominik-blak-060416176/ target="_blank"> 💼 LinkedIn</a> 
+- 📫 How to reach me :</br> <a href="mailto:bldominikak@gmail.com" target="_blank"> 📧 bldominikak@gmail.com</a>   </br> <a href="https://dominikblak.github.io/personal-homepage/" target="_blank"> 👨‍💻 Personal homepage</a> </br> <a href="https://www.linkedin.com/in/dominik-blak-060416176/" target="_blank"> 💼 LinkedIn</a> 
 
 
 
